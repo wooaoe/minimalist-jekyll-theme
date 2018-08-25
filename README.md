@@ -3,7 +3,7 @@
 #### Minimalist jekyll theme is a minimal github theme made using Jekyll for developping static websites.
 
 ---
-[Live](https://arjunvijanathakurup.me/blog/)  |  [Download](https://github.com/imarjunv/minimalist-jekyll-theme/archive/master.zip)
+[Live](https://arjunvijayanathakurup.me/blog/)  |  [Download](https://github.com/imarjunv/minimalist-jekyll-theme/archive/master.zip)
 
 
 ![GitHub Logo](./assets/images/minimalist-jekyll-theme.png)
